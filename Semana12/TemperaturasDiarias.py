@@ -34,4 +34,3 @@ for c in range(ciudades):
         print(f"  Semana {s+1}:")
         for d in range(dias):
             print(f"    {dias_semana[d]}: {temperaturas[c][s][d]} °C")
-
