@@ -9,7 +9,7 @@ dias = 7
 temperaturas = [[[0 for d in range(dias)] for s in range(semanas)] for c in range(ciudades)]
 
 # Nombres de ejemplo
-nombres_ciudades = ["Buenos Aires", "La Sexta", "Esmeraldas"]
+nombres_ciudades = ["Buenos Aires", "Pedernales", "Esmeraldas"]
 dias_semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
 
 # Llenar con temperaturas aleatorias (10°C a 35°C)
