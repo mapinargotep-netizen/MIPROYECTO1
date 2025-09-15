@@ -23,7 +23,7 @@ def calcular_promedio(temperaturas):
 if __name__ == "__main__":
     # Ejemplo de matriz de temperaturas: 3 ciudades, 4 semanas
     temperaturas = [
-        [20.5, 22.0, 19.8, 21.3],  # Ciudad 1
+        [30.5, 22.0, 19.8, 21.3],  # Ciudad 1
         [25.0, 24.5, 26.1, 23.9],  # Ciudad 2
         [18.2, 19.0, 17.5, 18.7]   # Ciudad 3
     ]
