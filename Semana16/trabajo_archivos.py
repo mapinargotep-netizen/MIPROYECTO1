@@ -6,7 +6,7 @@ archivo = open("my_notes.txt", "w")
 # Escribimos al menos tres líneas de notas personales en el archivo
 archivo.write("Hoy aprendí a trabajar con archivos de texto en Python.\n")
 archivo.write("Me parece importante cerrar los archivos después de usarlos.\n")
-archivo.write("Practicar me ayuda a entender mejor la programación.\n")
+archivo.write("Practicar me ayuda a entender de mejor la programación.\n")
 
 # Cerramos el archivo después de escribir
 archivo.close()
